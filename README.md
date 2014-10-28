@@ -1,4 +1,4 @@
 Project
 =======
 
-Project documents
+Project documents as distributed by OOP instructor.
