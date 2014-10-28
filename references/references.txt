@@ -1,0 +1,5 @@
+Using Git manual
+http://git-scm.com/book/en/v2
+
+Better UML Software
+http://www.visual-paradigm.com/download/community.jsp
